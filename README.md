@@ -1,4 +1,4 @@
-<h1>Hi, I'm Simon, an <a href="www.linkedin.com/in/simon-lieu-b54a39159">IT Professional>
+<h1>Hi, I'm Simon, an <a href="www.linkedin.com/in/simon-lieu-b54a39159">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
