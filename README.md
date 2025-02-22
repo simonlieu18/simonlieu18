@@ -1,4 +1,4 @@
-<h1>Hi, I'm Simon, an <a href="https://www.linkedin.com/in/simon-lieu-b54a39159">IT Professional</a/h1>
+<h1>Hi, I'm Simon, an <a href="https://www.linkedin.com/in/simonlieu18">IT Professional</a/h1>
 
 <h2>Information Technology Projects:</h2>
 
@@ -14,4 +14,4 @@
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/simon-lieu-b54a39159
+[linkedin]: https://www.linkedin.com/in/simonlieu18
