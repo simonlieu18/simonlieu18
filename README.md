@@ -9,7 +9,6 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/simonlieu18/configure-ad)
   - [Group Policy Management](https://github.com/simonlieu18/group-policy-management)
-  - [Build](https://github.com/simonlieu18/)
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
