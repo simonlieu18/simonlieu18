@@ -3,9 +3,9 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/simonlieu18/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/simonlieu18/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/simonlieu18/ticket-lifecycle)
+  - [Prerequisites and Installation](https://github.com/simonlieu18/osticket-prereqs)
+  - [Post-Installation Configuration](https://github.com/simonlieu18/post-install-config)
+  - [Ticket Lifecycle Examples](https://github.com/simonlieu18/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/simonlieu18/configure-ad)
   - [Group Policy Management](https://github.com/simonlieu18/group-policy-management)
