@@ -10,6 +10,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/simonlieu18/configure-ad)
   - [Group Policy Management](https://github.com/simonlieu18/group-policy-management)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/simonlieu18/azure-network-protocols)
+  - [Network File Shares and Permissions](https://github.com/simonlieu18/file-shares-and-permissions)
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
