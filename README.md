@@ -8,9 +8,10 @@
   - [Ticket Lifecycle Examples](https://github.com/simonlieu18/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/simonlieu18/configure-ad)
-  - [Group Policy Management](https://github.com/simonlieu18/group-policy-management)
-    - [Desktop Wallpaper GPO](https://github.com/simonlieu18/Desktop-Wallpaper-GPO)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/simonlieu18/azure-network-protocols)
+- <b>Group Policy Management</b>
+  - [Account Lockout Policy](https://github.com/simonlieu18/account-lockout-policy)
+  - [Desktop Wallpaper GPO](https://github.com/simonlieu18/Desktop-Wallpaper-GPO)
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
