@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/simonlieu18/configure-ad)
   - [Group Policy Management](https://github.com/simonlieu18/group-policy-management)
+    - [Desktop Wallpaper GPO](https://github.com/simonlieu18/Desktop-Wallpaper-GPO)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/simonlieu18/azure-network-protocols)
 <h2>Connect with me:</h2>
 
